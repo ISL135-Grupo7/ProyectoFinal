@@ -928,7 +928,7 @@ echo "=== Verificación Completada ==="
 
 ### Progreso General: 100%
 
-![Progreso](https://progress-bar.dev/100?title=Completado&width=500)
+
 
 </div>
 
