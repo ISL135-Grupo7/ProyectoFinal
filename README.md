@@ -954,7 +954,6 @@ echo "=== Verificación Completada ==="
 
 | Tecnología | Versión | Propósito |
 |:----------:|:-------:|:---------:|
-| ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) | 20.04 LTS | Sistema Operativo Base |
 | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | 24.0+ | Virtualización de Contenedores |
 | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) | Latest | Servidor Web |
 | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) | 5.0+ | Scripts de Automatización |
