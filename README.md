@@ -1033,20 +1033,6 @@ Para preguntas o sugerencias sobre este proyecto:
 
 </div>
 
----
-
-## Próximos Pasos (Mejoras Futuras)
-
-- [ ] Implementar HTTPS con certificados SSL/TLS
-- [ ] Agregar balanceador de carga con múltiples contenedores
-- [ ] Configurar CI/CD con GitHub Actions
-- [ ] Implementar sistema de logs centralizado
-- [ ] Agregar monitoreo con Prometheus y Grafana
-- [ ] Configurar alertas por Telegram/Email
-- [ ] Implementar backup automático a la nube
-- [ ] Crear dashboard de métricas en tiempo real
-
----
 
 <div align="center">
 
