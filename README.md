@@ -95,7 +95,7 @@ El proyecto aplica los conocimientos adquiridos en la asignatura **Introducción
 
 [![GitHub](https://img.shields.io/badge/GitHub-ProyectoFinal-181717?style=for-the-badge&logo=github)](https://github.com/ISL135-Grupo7/ProyectoFinal.git)
 
-**URL:** `https://github.com/ISL135-Grupo7/ProyectoFinal.git`
+**URL:** `https://github.com/ISL135-Grupo7/ProyectoFinal`
 
 </div>
 
