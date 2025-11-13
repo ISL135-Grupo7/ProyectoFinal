@@ -34,8 +34,6 @@
 - [Despliegue Web](#-despliegue-web)
 - [Verificación](#-verificación)
 - [Estado del Proyecto](#-estado-del-proyecto)
-- [Capturas de Pantalla](#-capturas-de-pantalla)
-- [Licencia](#-licencia)
 
 ---
 
