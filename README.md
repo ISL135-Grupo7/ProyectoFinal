@@ -503,7 +503,7 @@ sudo nano /proyecto/web/index.html
 
 ## 🖼️ Visualización del sistema
 
-![Visualización del sistema](capturas/visualización.png)
+![Visualización del sistema](capturas/visualizacion.png)
 
 **Vista previa del resultado:**
 
