@@ -394,7 +394,7 @@ free -h | grep Mem | awk '{print "  Disponible: " $7}'
 echo ""
 
 # 5. Contenedores Docker
-echo "🐳 CONTENEDORES DOCKER:"
+echo " CONTENEDORES DOCKER:"
 if command -v docker &> /dev/null; then
     CONTENEDORES_ACTIVOS=$(docker ps -q | wc -l)
     CONTENEDORES_TOTALES=$(docker ps -a -q | wc -l)
@@ -501,7 +501,7 @@ sudo nano /proyecto/web/index.html
 
 **Estructura visual del sitio:**
 
-## 🖼️ Visualización del sistema
+##  Visualización del sistema
 
 ![Visualización del sistema](capturas/visualizacion.png)
 
